@@ -214,7 +214,7 @@ MongoDB  Gemini AI  Cloudinary
 ### Deployment
 
 * Vercel (Frontend)
-* Render / Node Hosting (Backend)
+* Vercel (Backend)
 
 ---
 
